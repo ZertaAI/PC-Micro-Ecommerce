@@ -10,4 +10,4 @@ Connexion au site : Le client peut se connecter en utilisant ses identifiants. E
 
 Ajout de nouveaux produits : L'administrateur peut ajouter de nouveaux produits au catalogue, en incluant toutes les références nécessaires ainsi que les images des produits. Suppression de clients : L'administrateur a la capacité de supprimer des comptes clients. Gestion des produits : L'administrateur peut consulter la liste des produits et modifier les informations de chaque produit selon les besoins.
 
-Utilisation de Vs Code et XAMPP, PHP, MySQL, HTML CSS, BootStrap, fdpf pour la génération des factures. 
+Utilisation de Vs Code et XAMPP, PHP, MySQL, HTML CSS, JavaScript, BootStrap, fdpf pour la génération des factures. 
